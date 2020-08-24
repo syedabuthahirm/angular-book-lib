@@ -3,11 +3,19 @@ import { NgModule } from "@angular/core";
 import { AppComponent } from "./app.component";
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 
-import { ButtonModule } from "primeng/button";
+import { AppRoutingModule } from "./app-routing-module";
+import { MenubarModule } from "primeng/menubar";
+import { BooksComponent } from "./books/books.component";
+import { CategoriesComponent } from "./categories/categories.component";
 
 @NgModule({
-  declarations: [AppComponent],
-  imports: [BrowserModule, BrowserAnimationsModule, ButtonModule],
+  declarations: [AppComponent, BooksComponent, CategoriesComponent],
+  imports: [
+    BrowserModule,
+    BrowserAnimationsModule,
+    MenubarModule,
+    AppRoutingModule,
+  ],
   providers: [],
   bootstrap: [AppComponent],
 })

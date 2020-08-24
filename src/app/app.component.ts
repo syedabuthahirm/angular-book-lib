@@ -1,11 +1,13 @@
 import { Component } from "@angular/core";
-
+import { MenuItem } from "primeng/api";
 @Component({
   selector: "app-root",
   templateUrl: "./app.component.html",
-  // styleUrls: ["./app.component.css"],
   styles: ["./app.component.css"],
 })
 export class AppComponent {
-  title = "online-book-portal";
+  items: MenuItem[] = [
+    { label: "Books", routerLink: "/" },
+    { label: "Categories", routerLink: "/categories" },
+  ];
 }
