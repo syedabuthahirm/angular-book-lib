@@ -1,0 +1,282 @@
+[
+  {
+    "uuid": "226bb357-6ff1-4d42-b695-c5b4c795fbe1",
+    "name": "Programming Architecture",
+    "category": {
+      "uuid": "c0c9bfc8-7044-4c6b-a750-64ad188a3344",
+      "categoryName": "Action",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "64f60655-a640-4b06-ae6c-bcbb4e464894",
+      "name": "Author 1"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "2246d1e0-8f0d-4b6d-af28-a89bc10a1bf0",
+    "name": "Book 2",
+    "category": {
+      "uuid": "c0c9bfc8-7044-4c6b-a750-64ad188a3344",
+      "categoryName": "Action",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "64f60655-a640-4b06-ae6c-bcbb4e464894",
+      "name": "Author 1"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "973d0bf0-9556-4263-8fae-4a7d9d825f12",
+    "name": "Book 3",
+    "category": {
+      "uuid": "c0c9bfc8-7044-4c6b-a750-64ad188a3344",
+      "categoryName": "Action",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "64f60655-a640-4b06-ae6c-bcbb4e464894",
+      "name": "Author 1"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "e64ca08a-f355-4415-8da8-d39a3bfd03e1",
+    "name": "Book 4",
+    "category": {
+      "uuid": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b2",
+      "categoryName": "Fiction",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "64f60655-a640-4b06-ae6c-bcbb4e464894",
+      "name": "Author 1"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "d7d5fb1d-0205-412f-99ab-98fbb7677ba3",
+    "name": "Book 5",
+    "category": {
+      "uuid": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b2",
+      "categoryName": "Fiction",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "64f60655-a640-4b06-ae6c-bcbb4e464894",
+      "name": "Author 1"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "6a789a6f-21a3-4f4a-81f8-b419f55dda49",
+    "name": "Book 6",
+    "category": {
+      "uuid": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b2",
+      "categoryName": "Fiction",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "cf004119-770b-4bbc-ada3-34c5cd4ab0e0",
+      "name": "Author 2"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "98797f5b-a9e7-4e72-9f39-a9acbe4f7cda",
+    "name": "Book 7",
+    "category": {
+      "uuid": "f9269d77-f06d-48a0-b7a7-02338eb2d24a",
+      "categoryName": "Category 3",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "cf004119-770b-4bbc-ada3-34c5cd4ab0e0",
+      "name": "Author 2"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "7230f464-69f5-4049-8323-db8552bf1b20",
+    "name": "Book 8",
+    "category": {
+      "uuid": "f9269d77-f06d-48a0-b7a7-02338eb2d24a",
+      "categoryName": "Category 3",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "cf004119-770b-4bbc-ada3-34c5cd4ab0e0",
+      "name": "Author 2"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "a285d595-49e4-4d77-97b0-6706ed19f841",
+    "name": "Book 9",
+    "category": {
+      "uuid": "f9269d77-f06d-48a0-b7a7-02338eb2d24a",
+      "categoryName": "Category 3",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "cf004119-770b-4bbc-ada3-34c5cd4ab0e0",
+      "name": "Author 2"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "8cf36e00-5652-45ec-b663-2915b18ac228",
+    "name": "Book 10",
+    "category": {
+      "uuid": "1372c267-cc0b-4908-9c58-00f16cce4289",
+      "categoryName": "Category 4",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "cf004119-770b-4bbc-ada3-34c5cd4ab0e0",
+      "name": "Author 2"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "673f1da3-f775-49d8-afd9-497912f4b2e6",
+    "name": "Book 11",
+    "category": {
+      "uuid": "1372c267-cc0b-4908-9c58-00f16cce4289",
+      "categoryName": "Category 4",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "b59679e1-071c-4bfe-93a6-d61e6fa0db6c",
+      "name": "Author 3"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "6f1afab3-418d-478d-962e-419000c38c30",
+    "name": "Book 12",
+    "category": {
+      "uuid": "1372c267-cc0b-4908-9c58-00f16cce4289",
+      "categoryName": "Category 4",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "b59679e1-071c-4bfe-93a6-d61e6fa0db6c",
+      "name": "Author 3"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "24c064f5-edeb-402e-b1cc-d0fd9f50769d",
+    "name": "Book 13",
+    "category": {
+      "uuid": "e5c7b8ec-cec1-4414-a449-d305bd28bc57",
+      "categoryName": "SubCategory 1-1",
+      "parentId": "c0c9bfc8-7044-4c6b-a750-64ad188a3344"
+    },
+    "author": {
+      "uuid": "b59679e1-071c-4bfe-93a6-d61e6fa0db6c",
+      "name": "Author 3"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "14d73f86-b43a-453a-815c-a333fb579005",
+    "name": "Book 14",
+    "category": {
+      "uuid": "e5c7b8ec-cec1-4414-a449-d305bd28bc57",
+      "categoryName": "SubCategory 1-1",
+      "parentId": "c0c9bfc8-7044-4c6b-a750-64ad188a3344"
+    },
+    "author": {
+      "uuid": "b59679e1-071c-4bfe-93a6-d61e6fa0db6c",
+      "name": "Author 3"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "1e459b1c-eb93-44e7-a8c2-13f1ff3abff2",
+    "name": "Book 15",
+    "category": {
+      "uuid": "e5c7b8ec-cec1-4414-a449-d305bd28bc57",
+      "categoryName": "SubCategory 1-1",
+      "parentId": "c0c9bfc8-7044-4c6b-a750-64ad188a3344"
+    },
+    "author": {
+      "uuid": "b59679e1-071c-4bfe-93a6-d61e6fa0db6c",
+      "name": "Author 3"
+    },
+    "publishedOn": "2020-08-19"
+  },
+  {
+    "uuid": "20086b74-f945-4a19-8345-cf185884fd44",
+    "name": "Book 16",
+    "category": {
+      "uuid": "b5f77fb5-cfb8-426d-94de-c8201d50fb07",
+      "categoryName": "SubCategory 2-2",
+      "parentId": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b2"
+    },
+    "author": {
+      "uuid": "d236bc09-247f-4167-a1e7-43dc33a2ac9e",
+      "name": "Author 4"
+    },
+    "publishedOn": "2020-07-15"
+  },
+  {
+    "uuid": "852e246d-74ea-4589-8fd5-9eb6a792a085",
+    "name": "Book 17",
+    "category": {
+      "uuid": "b5f77fb5-cfb8-426d-94de-c8201d50fb07",
+      "categoryName": "SubCategory 2-2",
+      "parentId": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b2"
+    },
+    "author": {
+      "uuid": "d236bc09-247f-4167-a1e7-43dc33a2ac9e",
+      "name": "Author 4"
+    },
+    "publishedOn": "2020-09-21"
+  },
+  {
+    "uuid": "606c7782-9016-4e4b-8afb-bd119818df8e",
+    "name": "Book 18",
+    "category": {
+      "uuid": "b5f77fb5-cfb8-426d-94de-c8201d50fb07",
+      "categoryName": "SubCategory 2-2",
+      "parentId": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b2"
+    },
+    "author": {
+      "uuid": "d236bc09-247f-4167-a1e7-43dc33a2ac9e",
+      "name": "Author 4"
+    },
+    "publishedOn": "2020-08-20"
+  },
+  {
+    "uuid": "6cb459b8-59c3-4047-96c2-4bef56f0ad53",
+    "name": "Book 19",
+    "category": {
+      "uuid": "c0c9bfc8-7044-4c6b-a750-64ad188a3344",
+      "categoryName": "Action",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "d236bc09-247f-4167-a1e7-43dc33a2ac9e",
+      "name": "Author 4"
+    },
+    "publishedOn": "2020-09-20"
+  },
+  {
+    "uuid": "42de60d8-b058-4cf3-9d5c-e97f4c774b01",
+    "name": "Zend Project",
+    "category": {
+      "uuid": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b2",
+      "categoryName": "Fiction",
+      "parentId": ""
+    },
+    "author": {
+      "uuid": "d236bc09-247f-4167-a1e7-43dc33a2ac9e",
+      "name": "Author 4"
+    },
+    "publishedOn": "2020-09-20"
+  }
+]

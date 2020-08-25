@@ -7,7 +7,15 @@ import { MenuItem } from "primeng/api";
 })
 export class AppComponent {
   items: MenuItem[] = [
-    { label: "Books", routerLink: "/" },
-    { label: "Categories", routerLink: "/categories" },
+    {
+      label: "Books",
+      routerLink: "/",
+      routerLinkActiveOptions: { exact: true },
+    },
+    {
+      label: "Categories",
+      routerLink: "/categories",
+      routerLinkActiveOptions: { exact: true },
+    },
   ];
 }
