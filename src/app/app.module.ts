@@ -11,9 +11,10 @@ import { CardModule } from "primeng/card";
 import { ButtonModule } from "primeng/button";
 import { InputTextModule } from "primeng/inputtext";
 import { DropdownModule } from "primeng/dropdown";
+import { TreeModule } from "primeng/tree";
+import { MessagesModule } from "primeng/messages";
 import { BooksComponent } from "./books/books.component";
 import { CategoriesComponent } from "./categories/categories.component";
-
 @NgModule({
   declarations: [AppComponent, BooksComponent, CategoriesComponent],
   imports: [
@@ -28,6 +29,8 @@ import { CategoriesComponent } from "./categories/categories.component";
     ButtonModule,
     InputTextModule,
     DropdownModule,
+    TreeModule,
+    MessagesModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

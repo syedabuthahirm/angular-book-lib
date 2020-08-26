@@ -1,7 +1,8 @@
 import { Component, OnInit } from "@angular/core";
 import { BookService } from "../book.service";
 import { Book } from "../models/book";
-
+import { ActivatedRoute } from "@angular/router";
+import { switchMap } from "rxjs/operators";
 @Component({
   selector: "app-books",
   templateUrl: "./books.component.html",
@@ -17,9 +18,17 @@ export class BooksComponent implements OnInit {
   searchKeyWord: string = "";
   visibleBooks: Book[] = [];
 
-  constructor(private bookService: BookService) {}
+  constructor(
+    private bookService: BookService,
+    private route: ActivatedRoute
+  ) {}
 
   ngOnInit() {
+    this.route.queryParams.subscribe((params) => {
+      if (typeof params["category"] !== "undefined") {
+        this.searchKeyWord = params["category"];
+      }
+    });
     this.bookService.getBooks().then((books) => {
       this.books = books;
       this.updateVisibleBooks();

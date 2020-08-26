@@ -269,9 +269,9 @@
     "uuid": "42de60d8-b058-4cf3-9d5c-e97f4c774b01",
     "name": "Zend Project",
     "category": {
-      "uuid": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b2",
-      "categoryName": "Fiction",
-      "parentId": ""
+      "uuid": "e2d07df1-3dc3-4bb3-8805-8a8f7396f7b3",
+      "categoryName": "Category 7",
+      "parentId": "b5f77fb5-cfb8-426d-94de-c8201d50fb07"
     },
     "author": {
       "uuid": "d236bc09-247f-4167-a1e7-43dc33a2ac9e",
